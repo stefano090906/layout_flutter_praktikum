@@ -1,4 +1,4 @@
-- praktikum 1
+# - praktikum 1
 <img width="1920" height="1080" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/92b67705-380c-4de0-ab29-673097ef781c" />
 pada praktikum yang pertama ini, saya membangun layout di flutter dimana saya membuat tata letak flutter dan menata widget
 
@@ -15,7 +15,6 @@ pada praktikum yang ketiga ini, saya mengimplementasikan textSection dimana saya
 pada praktikum yang keempat ini, saya mengimplementasikan imageSection kemudian saya gabungkan dengan layout, button, dan juga textSection yang dimana menghasilkan sebuah tampilan seperti pada gambar
 
 
-<img width="1430" height="3054" alt="image" src="https://github.com/user-attachments/assets/603b1794-b187-4b85-9a52-e7587cdc10c7" />
 
 
 
